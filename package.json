@@ -1,0 +1,18 @@
+{
+  "name": "momence-be",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node-dev app.ts"
+  },
+  "dependencies": {
+    "express": "~4.16.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.16",
+    "@types/node": "^18.11.18",
+    "prettier": "^2.8.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.4"
+  }
+}
